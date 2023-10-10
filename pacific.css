@@ -46,7 +46,6 @@ nav a:visited {
 nav a {
 	text-decoration: none;
 	color: #000033;
-
 }
 
 nav a:hover {
@@ -96,27 +95,6 @@ dt {
     padding-right: 20px;
     margin-bottom: auto;
 	width: 60%;
-}
-
-table{
-	margin: auto;
-	border: 1px solid #8cc6e3;
-	width: 80%;
-	border-spacing: 0;
-}
-
-td, th{
-	padding: 5px;
-	border: 1px solid #8cc6e3;
-	text-align: center;
-}
-
-.text{
-	text-align: left;	
-}
-
-tr:nth-of-type(odd){
-	background-color: #ffffff;
 }
 
 footer {
