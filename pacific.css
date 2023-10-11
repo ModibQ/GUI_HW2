@@ -85,7 +85,7 @@ dt {
 
 #wrapper{
 	margin: auto;
-	width: 50%;
+	width: 80%;
 	background-color: #8cc6e3;
 	box-shadow: 5px 5px 5px #000033;
 	min-width: 600px;
@@ -102,7 +102,6 @@ dt {
     float: left; 
     padding-right: 20px;
     margin-bottom: auto;
-	width: 60%;
 }
 
 footer {
